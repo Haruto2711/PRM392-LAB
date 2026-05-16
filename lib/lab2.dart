@@ -7,10 +7,6 @@ void runLab2() {
   exercise4();
 }
 
-void main() {
-  runLab2();
-}
-
 void exercise1() {
   print('Exercise 1: Basic Syntax & Data Types');
 
