@@ -1,14 +1,8 @@
 //import 'package:flutter/material.dart';
+//import 'lab1.dart' as lab1;
 import 'lab2.dart' as lab2;
 void main() {
-   /* runApp(
-    const Center(
-      child: Text(
-        'Hello User',
-        textDirection: TextDirection.ltr,
-      ),
-    ),
-  ); */
+  //lab1.runLab1();
   lab2.runLab2();
 }
 
