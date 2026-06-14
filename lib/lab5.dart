@@ -24,7 +24,7 @@ class Movie {
   });
 }
 
-// Dữ liệu mẫu theo yêu cầu Lab (không dùng API)
+// Dữ liệu mẫu 
 final List<Movie> movies = [
   Movie(
     id: 1,
