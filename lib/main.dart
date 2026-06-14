@@ -6,7 +6,8 @@
 //import 'lab5.dart' as lab5;
 //import 'lab6.dart' as lab6;
 //import 'lab7.dart' as lab7;
-import 'lab8/lab8.dart' as lab8;
+//import 'lab8/lab8.dart' as lab8;
+import 'lab8b/lab8b.dart' as lab8b;
 void main() {
   //lab1.runLab1();
   //lab2.runLab2();
@@ -15,7 +16,8 @@ void main() {
   //lab5.runLab5();
   //lab6.runLab6();
   //lab7.runLab7();
-  lab8.runLab8();
+  //lab8.runLab8();
+  lab8b.runLab8B();
 }
 
 
