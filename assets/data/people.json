@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto",
+    "age": 17
+  },
+  {
+    "id": 2,
+    "name": "Luffy",
+    "age": 19
+  },
+  {
+    "id": 3,
+    "name": "Goku",
+    "age": 40
+  }
+]
